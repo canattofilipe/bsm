@@ -20,6 +20,8 @@
 project = 'BSM'
 copyright = '2020, Wilton Filipe Canatto'
 author = 'Wilton Filipe Canatto'
+version = u'0.0.1'
+language = 'pt_br'
 
 
 # -- General configuration ---------------------------------------------------
@@ -27,8 +29,8 @@ author = 'Wilton Filipe Canatto'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-]
+extensions = ['rst2pdf.pdfbuilder']
+pdf_documents = [('index', u'bsm_documentation', u'Baumer Suite Management', u'Wilton Filipe Canatto'),]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
