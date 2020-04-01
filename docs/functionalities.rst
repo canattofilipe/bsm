@@ -14,6 +14,10 @@ Telemetria
 
 A funcionalidade de telemetria mostra graficamente as oscilações de um sensor.
 
+.. image:: images/telemetry_ex1.png
+  :width: 400
+  :alt: Exemplo sensor de temperatura
+
 Relatórios
 ----------
 
