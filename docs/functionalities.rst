@@ -30,4 +30,4 @@ Detecção de Anomalias
 ---------------------
 
 Um sensor pode ser configurado para ter um intervalo de valor aceitável. Caso um valor fora do intervalo aceitável seja
-atingido o BSM pode detectar a anomalia e notificar um usuário através do envio de e-mail.
+atingido o BSM pode detectar a anomalia e notificar usuários através do envio de e-mails.
