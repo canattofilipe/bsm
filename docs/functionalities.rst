@@ -14,6 +14,8 @@ Telemetria
 
 A funcionalidade de telemetria mostra graficamente as oscilações de um sensor.
 
+Vejamos um exemplo de um sensor de temperatura, o eixo "x" mostra o tempo, o eixo "y" o valor e os pontos vermelhos as anomalias.
+
 .. image:: images/telemetry_ex1.png
   :width: 400
   :alt: Exemplo sensor de temperatura
